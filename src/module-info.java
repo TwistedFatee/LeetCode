@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author JayQi
+ *
+ */
+module LeetCode {
+}
